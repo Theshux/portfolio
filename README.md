@@ -1,5 +1,3 @@
-logo: ![dp](https://github.com/user-attachments/assets/6ebb2cde-7c5e-4d2f-afad-e6f3f361dc0a)
-
 
 
 # Welcome to My Data Science Portfolio
