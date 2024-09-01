@@ -25,26 +25,39 @@ Feel free to explore my projects and connect with me on [LinkedIn](https://www.l
 - **Outcome:** Identified key indicators and developed a predictive model for heart disease.
 
 ### [Loan Dataset Analysis](https://github.com/Theshux/Loan_Dataset_Analysis)
+![ERD](./assets/img/sql%20p1%201.png)
+
 - **Description:** Analyzed loan data to identify risk factors associated with defaults.
 - **Skills:** MySQL, Python, Pandas, Seaborn
 - **Outcome:** Provided insights into loan performance and risk factors.
 
 ### [Sales and Delivery Data Analysis](https://github.com/Theshux/Sql-Sales-and-Delivery-Project)
+![what-is-sales-analysis-how-to-prepare-a-sales-analysis-Report0A](https://github.com/user-attachments/assets/44d5393d-74b6-4a36-bca7-2b5f32a741c3)
+
+
 - **Description:** Analyzed sales and delivery data to uncover insights on customer behavior and order fulfillment.
 - **Skills:** MySQL, SQL, Python
 - **Outcome:** Delivered actionable insights for improving sales and delivery strategies.
 
 ### [Multilabel Text Classification](https://github.com/Theshux/Multilable-text-classification)
+<img width="300" alt="Multiclass-Classification" src="https://github.com/user-attachments/assets/2cd83a19-f4b2-42a1-890e-343e87e9ef81">
+
+
 - **Description:** Implemented a multilabel text classification model to categorize text data.
 - **Skills:** Python, Pandas, Scikit-learn, NLP
 - **Outcome:** Enhanced text data categorization using machine learning techniques.
 
 ### [Quarterly Shipment Analysis of a Courier Company](https://github.com/Theshux/Quarterly-Shipment-Analysis-of-a-Courier-Company)
+![TimeSeriesGraphs](./assets/img/time%20sereis%20p1%204.png)
+
+
 - **Description:** Analyzed quarterly shipment data to optimize courier operations.
 - **Skills:** Python, Pandas, Seaborn, Matplotlib
 - **Outcome:** Improved shipment efficiency through data-driven insights.
 
 ### [Sports Analysis using Tableau](https://github.com/Theshux/Sports-Analysis-using-Tableau)
+![dashboard](./assets/img/Story%20board.png)
+
 - **Description:** Visualized sports data to explore trends and performance using Tableau.
 - **Skills:** Tableau, Data Visualization
 - **Outcome:** Created interactive dashboards highlighting key sports metrics.
