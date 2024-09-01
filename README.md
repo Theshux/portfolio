@@ -19,7 +19,7 @@ Feel free to explore my projects and connect with me on [LinkedIn](https://www.l
 ## Projects
 
 ### [Heart Disease Prediction and Key Indicator Analysis](https://github.com/Theshux/Heart-Disease-Prediction-and-Key-Indicator-Analysis)
-![Heart graphics](/assets/img/heart attack indicator p1 1.jpg)
+![Heart graphics](Heart-Disease-Prediction-and-Key-Indicator-Analysis/assets/img/heart attack indicator p1 1.jpg)
 - **Description:** Analyzed risk factors associated with heart disease and built a classification model to predict heart attacks.
 - **Skills:** Python, Pandas, Scikit-learn, Seaborn
 - **Outcome:** Identified key indicators and developed a predictive model for heart disease.
