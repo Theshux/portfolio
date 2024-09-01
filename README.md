@@ -1,7 +1,8 @@
 
 # Welcome to My Data Science Portfolio
 
-![Banner Image](path_to_your_banner_image)
+![Banner Image](https://github.com/user-attachments/assets/4b150cc6-9622-4c4a-bb94-24f103c00f6b)
+
 
 ## About Me
 I am an experienced Biomedical Engineer with over 6 years of expertise in the healthcare domain. I specialize in data analysis, machine learning, and statistical methods, with proficiency in Python and MySQL. My work involves leveraging data to drive insights and optimize processes. I'm passionate about applying my skills across industries to solve complex problems and improve outcomes.
@@ -87,5 +88,3 @@ Feel free to reach out for collaborations or inquiries:
 - **LinkedIn:** [Shubham Salvi](https://www.linkedin.com/in/shubham-salvi-19595594/)
 - **GitHub:** [Theshux](https://github.com/Theshux)
 
-## License
-This portfolio is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
