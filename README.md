@@ -66,9 +66,6 @@ Feel free to explore my projects and connect with me on [LinkedIn](https://www.l
 
 ## Professional Experience
 
-- **Remote Intern, iNeuron Intelligence Pvt Ltd | March 2024 – Present**
-  - Developing predictive models to forecast backorder sales using data analysis techniques.
-
 - **Field Service Engineer, Philips India Limited | Feb 2022 – Aug 2023**
   - Provided technical support for CT and MRI machines, optimizing maintenance schedules through data analysis.
 
